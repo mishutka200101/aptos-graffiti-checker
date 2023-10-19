@@ -1,4 +1,4 @@
-# Aptos grafiti transactions checker
+# Aptos graffiti transactions checker
 
 Внесите адреса Aptos в **wallets.txt**
 
